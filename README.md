@@ -1,6 +1,6 @@
 
-To run this project
-npm intall
+To run this project type
+npm intall 
 npm start
 
 This project is based on google search engine, Google api.
